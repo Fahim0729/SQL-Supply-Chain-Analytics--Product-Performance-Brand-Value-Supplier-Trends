@@ -35,20 +35,23 @@ All tables, except the datetime table, were populated from the staging database,
 
 ---
 
-## 📋 Business Questions & SQL Solutions
+## 📋 Business Questions & SQL Functions
 
 The questions have been solved using SQL queries, and the SQL functions applied to solve them are listed below:
 
 ### 📌 Q1. Brand Inventory Value Analysis
 **Identify brands with significant restocking activity (>50 units) in the second half of 2025 (July-December) and analyze their average shelf inventory value to optimize supply chain planning for next year.**
+
 🔹 SQL Functions: SUM(), AVG(), JOIN, BETWEEN, WHERE, GROUP BY, HAVING
 
 ### 📌 Q2. Product Sales Velocity
 **Identify the top 5 products by total quantity sold and categorize them as High, Medium, or Low velocity to understand sales performance trends.**
+
 🔹 SQL Functions: CTEs, JOIN, RANK(), ORDER BY, CASE
 
 ### 📌 Q3. Supplier Restocking Trend Analysis
 **Identify the top 3 suppliers with the largest positive change in received quantity by comparing their most recent delivery to their previous delivery, to understand suppliers with significant restocking trends.**
+
 🔹 SQL Functions: Subquery, JOIN, LAG, ROW_NUMBER, RANK, ROUND, Filtering Logic
 
 
