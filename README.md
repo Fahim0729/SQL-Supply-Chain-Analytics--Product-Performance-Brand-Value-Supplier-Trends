@@ -13,7 +13,7 @@ This project presents an end-to-end SQL analysis for an electronics company, usi
 
 ## 📊 Database Schema
 
-The `SQL_Portfolio` database was created with five tables to address the business questions of the electronics company:
+The `SQL_Portfolio` database was created with five tables to address the business questions of the electronics company. Three of these are dimension tables, and two are fact tables.
 
 | **Dimension Tables** | **Fact Tables** |
 |---------------------|-----------------|
@@ -29,9 +29,9 @@ All tables, except the datetime table, were populated from the staging database,
 ![Data Generation Plan](https://github.com/Fahim0729/Supply-Chain-Analytics-Using-SQL-Inventory-Sales-Supplier-Insights/blob/9926429eb37e25222dc4a0924a6475671eb8c358/Data_Generation_Plan.png)
 
 ### 🔗 Database Diagram
-Every fact table connects to each of the three dimension tables.
+Each fact table is connected to the three dimension tables, establishing relationships that support analysis and reporting.
 
-*The next figure presents the database diagram, illustrating the relationships between the fact table and the dimension tables.*
+*The following figure presents the database diagram, illustrating the relationships between the fact and dimension tables, with the primary keys of each table also indicated.*
 
 ![Database Diagram](https://github.com/Fahim0729/Supply-Chain-Analytics-Using-SQL-Inventory-Sales-Supplier-Insights/blob/29b2e9fcb6568ae46ca4417bcb80b131f7e53269/Database_Diagram.png)
 
