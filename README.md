@@ -100,6 +100,6 @@ Low velocity (less than 60 units) to understand sales performance trends.**
 
 <div align="center">
   
-**[⬆ Back to Top](#-supply-chain-insights-product-performance-brand-value-supplier-trends)**
+**[⬆ Back to Top](#top)**
 
 </div>
