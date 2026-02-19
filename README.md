@@ -63,7 +63,7 @@ However, Sony had the highest average stock value despite being in 5th position 
   <em>Figure: Stock Analysis by Brand (July–December 2025)</em>
 </p>
 
---
+---
 
 ### 📌 Q2. Product Sales Velocity
 **Identify the top 5 products by total quantity sold and categorize them as High (more than 90 units) Medium (60 to 90 units), or 
