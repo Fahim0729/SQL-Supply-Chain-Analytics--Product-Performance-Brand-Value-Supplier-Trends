@@ -41,7 +41,7 @@ Each fact table is connected to the three dimension tables, establishing relatio
   <br>
   <em>Figure: Database Diagram Illustrating Relationships Between Fact and Dimension Tables</em>
 </p>
----
+
 
 ## 📋 Business Questions & SQL Functions
 
